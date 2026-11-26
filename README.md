@@ -2,8 +2,9 @@
 This program allows to perform quantum tomography on quadrature marginal distributions to obtain the Wigner function. It also allows to calculate the density matrix in quadrature and the number representation from the generated Wigner function. In addition, it offers the option to simulate quadrature measurements to use as input.
 These functionalities are presented in a user-friendly graphical interface and take advantage of multiprocessing techniques to provide fast results.
 
-[//]: <img width="80%" alt="Screenshot 2022-10-30 at 7 52 04 PM" src="https://user-images.githubusercontent.com/44838230/198908531-4659e160-90d2-48f7-aea1-8a06d42f3ec7.png">
+[//]:<img width="1113" height="793" alt="image" src="https://github.com/user-attachments/assets/9c5c4426-1ed3-4725-b9b4-b75684cecbd3" />
 <img width="80%" alt="Main window of the tomography displaying the Wigner function of a coherent state"  src="https://github.com/amartinez1224/quantum-tomography/assets/44838230/af51d5f4-d2c4-4e04-92bb-a74979101869">
+
 
 ### Density matrix
 <img width="40%" alt="Window displaying the Density matrix in Fock representation of a coherent state"  src="https://github.com/amartinez1224/quantum-tomography/assets/44838230/0c67ef93-97be-43c2-b2b6-678db7113459">
