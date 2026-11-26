@@ -23,7 +23,7 @@ These functionalities are presented in a user-friendly graphical interface and t
 
 ## Install using binary files
 You can use the installers for your system to easily install the software. 
-- **[Windows]([https://github.com/amartinez1224/quantum-tomography/releases/download/v3.0/QuantumTomography_Windows.zip](https://github.com/opticacuanticauniandes/Wigner_Quantum_Tomography/releases/tag/wigner))**
+- **[Windows](https://github.com/opticacuanticauniandes/Wigner_Quantum_Tomography/releases/tag/wigner)**
 
 If you get a Launch error or cannot install the application using the binaries, try to clone the repository following the instructions below.
 
