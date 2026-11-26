@@ -3,7 +3,7 @@ This program allows to perform quantum tomography on quadrature marginal distrib
 These functionalities are presented in a user-friendly graphical interface and take advantage of multiprocessing techniques to provide fast results.
 
 [//]:<img width="1113" height="793" alt="image" src="https://github.com/user-attachments/assets/9c5c4426-1ed3-4725-b9b4-b75684cecbd3" />
-<img width="80%" alt="Main window of the tomography displaying the Wigner function of a coherent state"  src="https://github.com/amartinez1224/quantum-tomography/assets/44838230/af51d5f4-d2c4-4e04-92bb-a74979101869">
+<img width="80%" alt="Main window of the tomography displaying the Wigner function of a coherent state"  src="https://github.com/user-attachments/assets/9c5c4426-1ed3-4725-b9b4-b75684cecbd3">
 
 
 ### Density matrix
