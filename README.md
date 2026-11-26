@@ -30,7 +30,7 @@ If you get a Launch error or cannot install the application using the binaries, 
 ## Clone repo
 As an alternative you can directly clone the repo and run the `gui.py` file (works in Windows, Linux and MacOS).
 ```
-$ git clone https://github.com/amartinez1224/quantum-tomography.git
+$ git clone https://github.com/opticacuanticauniandes/Wigner_Quantum_Tomography.git
 $ cd quantum-tomography
 $ pip install -r requirements.txt
 $ python gui.py
@@ -41,7 +41,7 @@ It's common practice to use a virtual environment to run Python applications. Vi
 
 First clone the repo and navigate to the main folder
 ```
-$ git clone https://github.com/amartinez1224/quantum-tomography.git
+$ git clone https://github.com/opticacuanticauniandes/Wigner_Quantum_Tomography.git
 $ cd quantum-tomography
 ```
 Once there create a virtual environment using *venv* run
