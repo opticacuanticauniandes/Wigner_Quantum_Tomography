@@ -117,7 +117,7 @@ $$K(x)=\frac{\cos(k_c x)+k_c x\sin(k_c x)-1}{x^2}.$$
 
 When $|k_c x|<0.01$, the code uses a 5-term Taylor expansion instead, $K\approx\frac{k_c^2}{2}\left(1-\frac{(k_cx)^2}{4}+\frac{(k_cx)^4}{72}-\frac{(k_cx)^6}{2880}+\frac{(k_cx)^8}{201600}\right)$, to avoid the $0/0$ cancellation (functions `K`, `Kor` and `Kcomp`). This method is equivalent to the `ramlak` filter but costs $O(D^2 N n)$ operations, compared with about $O(N n\log n + N D^2)$ for filtered back-projection ($D$ = *Density*). It is much slower.
 
-The selected filter and *Kc* are stored in the JSON written by *Save data*. The file `docs/filters.tex` has the full derivation.
+The selected filter and *Kc* are stored in the JSON written by *Save data*. The file `docs/filters.tex` has the full derivation. See more details [here](https://github.com/user-attachments/files/35476162/Filter_Homodyne.pdf)
 
 ## Input file
 The input file has to be in the following JSON format:
@@ -166,14 +166,14 @@ You can simulate your own data using the *simulate data* button or by running th
 Data taken from a scope can be processed with the help of the `readScopeData.py` script to fit the input file format.
 
 ## Wigner functions online gallery
-Coming soon [here](https://amartinez1224.github.io/wigner-functions-gallery/).
+Coming soon
 
 # Documents
 ## Monograph
 You can find the monograph that lead to this development [here](https://github.com/amartinez1224/quantum-tomography/blob/567bfe7e2c01903786542dab36ff7c925361e157/docs/monograph.pdf).
-## Lab guides
-- [Lab guide 1](https://github.com/amartinez1224/quantum-tomography/blob/567bfe7e2c01903786542dab36ff7c925361e157/docs/Lab_guide_1.pdf)
-- [Lab guide 2](https://github.com/amartinez1224/quantum-tomography/blob/567bfe7e2c01903786542dab36ff7c925361e157/docs/Lab_guide_2.pdf)
+## Paper
+- [Paper Here]
+]()
 
 # Contact
 If you find any bugs or are further interested in the project, please do not hesitate to contact the team or the [Quantum Optics Group ](https://opticacuantica.uniandes.edu.co/en/) at [Uniandes](https://uniandes.edu.co/en).
