@@ -22,9 +22,7 @@ These functionalities are presented in a user-friendly graphical interface and t
 
 ## Install using binary files
 You can use the installers for your system to easily install the software. 
-- **[MacOS (Ventura 13.0 - Intel)](https://github.com/amartinez1224/quantum-tomography/releases/download/v3.0/QuantumTomography_MacOS_Intel.app.zip)**
-- **[MacOS (Ventura 13.0 - Silicon)](https://github.com/amartinez1224/quantum-tomography/releases/download/v3.0/QuantumTomography_MacOS_Silicon.app.zip)**
-- **[Windows](https://github.com/amartinez1224/quantum-tomography/releases/download/v3.0/QuantumTomography_Windows.zip)**
+- **[Windows]([https://github.com/amartinez1224/quantum-tomography/releases/download/v3.0/QuantumTomography_Windows.zip](https://github.com/opticacuanticauniandes/Wigner_Quantum_Tomography/releases/tag/wigner))**
 
 If you get a Launch error or cannot install the application using the binaries, try to clone the repository following the instructions below.
 
